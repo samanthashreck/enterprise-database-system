@@ -12,6 +12,8 @@ This database tracks inventory at each store, customers' purchases, sales histor
 
 The application allows access to record sales, intiate reorders, process new orders that arrive, etc.
 
-
-
 There is another readme, README.txt, that explains what is where. It includes instructions for the interfaces, such as suggestions of good customers to test. 
+
+
+
+This project was developed on different programs. The java files were created in Eclipse. The SQL database was developed using MySQL and OracleDB. The languages used were Java and PL/SQL. Microsoft Visio was implemented to create the Entity Relationship diagram. Sublime text editor helped with planning and developing tables, schemes, and mass amounts of data to be implemented into the database system. 
